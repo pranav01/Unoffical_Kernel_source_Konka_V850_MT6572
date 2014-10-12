@@ -1,7 +1,6 @@
-export PATH=~/Your_Toolchain_PATH/
+export PATH=${PATH}:~/toolchain/bin
 
-
-for example /alps/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6/bin
+cd kernel direct
 
 Build Command:
 
